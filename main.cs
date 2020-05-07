@@ -1,7 +1,7 @@
 using System;
 
 class Veiculos{
-
+  private string nome;
 }
 
 class MainClass {
